@@ -1,0 +1,11 @@
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.deps.json
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.json
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.dev.json
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.dll
+/Users/elizabethfortunato/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.pdb
+/Users/elizabethfortunato/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.csprojAssemblyReference.cache
+/Users/elizabethfortunato/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfoInputs.cache
+/Users/elizabethfortunato/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfo.cs
+/Users/elizabethfortunato/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.dll
+/Users/elizabethfortunato/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.pdb
